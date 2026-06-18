@@ -49,6 +49,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-a0e7e5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
+<a href="https://www.kaggle.com/giovanarochaesilva" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-ffd1dc?style=for-the-badge&logo=kaggle&logoColor=black" />
+</a>
+
 </p>
 
 <p align="center">
