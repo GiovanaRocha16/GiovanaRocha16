@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-ffd1dc?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-a0e7e5?style=for-the-badge&logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ffd1dc?style=for-the-badge&logo=openjdk&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-a0e7e5?style=for-the-badge&logo=html5&logoColor=black" />
 <img src="https://img.shields.io/badge/CSS-ffd1dc?style=for-the-badge&logo=css3&logoColor=black" />
