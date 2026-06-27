@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/SQL-a0e7e5?style=for-the-badge&logo=postgresql&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-ffd1dc?style=for-the-badge&logo=git&logoColor=black" />
 <img src="https://img.shields.io/badge/GitHub-a0e7e5?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VS%20Code-FFD1DC?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 
 
 </p>
